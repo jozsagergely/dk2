@@ -1,0 +1,304 @@
+body{
+
+    background-color:#ccf2e2;
+
+    /*nem tudom edonteni :  #ccf2e2   #9ebfc7#  718dac# 435b91#  162976*/
+}
+
+h1{
+    text-align:center;
+    font-size:34px;
+    
+}
+
+.felsoresz{
+   
+    height:200px;
+    float:top;
+    margin:none;
+    border:1px solid black;
+    background-image: linear-gradient(#9ebfc7,#ccf2e2);
+    
+}
+
+
+
+
+.baloldal{
+    float:left;
+    border:1px solid black;
+    width:200px;
+    height:800px;
+}
+
+h2{
+
+    text-align: center;
+    
+}
+
+#hobbigomb{
+    width: 150px;
+    
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#kedvenc{
+    margin-top: 10px;
+    width: 150px;
+}
+
+#insta{
+    width: 300px;
+    height: 100px;
+    
+}
+
+.schedule-table {
+    display: table;
+    border: 0;
+    text-align: center;
+  }
+
+  .schedule-table strong,
+  .schedule-table span {
+    display: block;
+    text-align: center;
+  }
+
+  .schedule-table strong {
+    color: var(--white-color);
+  }
+
+  .schedule-table span {
+    color: var(--gray-color);
+  }
+
+  .schedule-table span,
+  .schedule-table small {
+    font-size: var(--menu-font-size);
+    font-family: cooper black;
+  }
+
+  .schedule-table small {
+    position: relative;
+    top: 10px;
+  }
+
+  .table .thead-light th,
+  .schedule-table tr td:first-child {
+    background: var(--primary-color);
+    border: 1px solid #212122;
+    color: var(--white-color);
+  }
+
+  .schedule-table .thead-light th {
+    border-bottom: 0;
+    text-transform: uppercase;
+  }
+
+  .table-bordered td, 
+  .table-bordered th {
+    border: 1px solid #212122;
+  }
+
+  .table-bordered td {
+    padding-bottom: 22px;
+  }
+
+  .table td, .table th {
+    padding: 1rem;
+  }
+ 
+  .table td, .table th {
+    padding: 1rem;
+  }
+  
+  .table .thead-light th,
+  .schedule-table tr td:first-child {
+    background: var(--primary-color);
+    border: 1px solid #212122;
+    color: var(--white-color);
+  }
+
+
+  .hetfo{
+
+    vertical-align: middle;
+    font-family: cooper black;
+
+  }
+
+  td{
+    vertical-align: middle;
+    font-family: cooper black;
+  }
+
+  thead{
+    vertical-align: middle;
+    font-size: medium;
+    text-decoration: underline;
+    font-style: bold;
+  }
+
+  .hetirutin{
+    text-decoration: underline;
+  }
+
+  #bemutatkozas{
+      border: 2px solid black;
+      width:600px ;
+      position: absolute;
+      left:300px;
+      top: 700px;
+      
+
+  }
+#bemutatkozas:hover {
+    background-color: #9ebfc7;
+}
+
+  .gdlogo{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left:50px;
+    
+  }
+
+
+#hetfo:hover{
+  background-color: #9ebfc7;
+
+}
+  
+#kedd:hover{
+  background-color: #9ebfc7;
+
+}
+
+#szerda:hover{
+  background-color: #9ebfc7;
+
+}
+
+#csut:hover{
+  background-color: #9ebfc7;
+
+}
+
+#szombat:hover{
+  background-color: #9ebfc7;
+
+}
+
+#vas:hover{
+  background-color: #9ebfc7;
+
+}
+  #csut:hover{
+    background-color: #9ebfc7;
+
+  }
+  #pe:hover{
+    background-color: #9ebfc7;
+
+  }
+  #egy:hover{
+    background-color: #9ebfc7;
+    }
+  #ketto:hover{
+    background-color: #9ebfc7;
+  } 
+  #harom:hover{
+    background-color: #9ebfc7;
+  }
+  #negy:hover{
+    background-color: #9ebfc7;
+  }
+  #ot:hover{
+    background-color: #9ebfc7;
+  }
+  #hat:hover{
+    background-color: #9ebfc7;
+  }
+  #het:hover{
+    background-color: #9ebfc7;
+  }
+  #nyolc:hover{
+    background-color: #9ebfc7;
+  }
+  #kilenc:hover{
+    background-color: #9ebfc7;
+  }
+  #tiz:hover{
+    background-color: #9ebfc7;
+  }
+  #tizegy:hover{
+    background-color: #9ebfc7;
+  }
+  #tizketto:hover{
+    background-color: #9ebfc7;
+  } 
+  #tizharom:hover{
+    background-color: #9ebfc7;
+  } 
+  #tiznegy:hover{
+    background-color: #9ebfc7;
+  }
+  #tizot:hover{
+    background-color: #9ebfc7;
+  }
+  #tizhat:hover{
+    background-color: #9ebfc7;
+  }
+  #tizhet:hover{
+    background-color: #9ebfc7;
+  }
+  #tiznyolc:hover{
+    background-color: #9ebfc7;
+  }
+  #tizkilenc:hover{
+    background-color: #9ebfc7;
+  }
+  #husz:hover{
+    background-color: #9ebfc7;
+  }
+  #huszegy:hover{
+    background-color: #9ebfc7;
+  }
+  #huszketto:hover{
+    background-color: #9ebfc7;
+  }
+  #huszharom:hover{
+    background-color: #9ebfc7;
+  }
+  #husznegy:hover{
+    background-color:#9ebfc7 ;
+  }
+.bemutatkozo{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.szoveg{
+  font-size:16px;
+}
+
+.laptop{
+  width: 400px;
+  height: 250px;
+  float:right;
+}
+
+.bullet{
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  bottom: 150px;
+}
