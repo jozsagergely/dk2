@@ -1,6 +1,6 @@
 body{
 
-    background-color:#ccf2e2;
+    background-image: url("hobbi_elemei/hartter3.png");
 
     /*nem tudom edonteni :  #ccf2e2   #9ebfc7#  718dac# 435b91#  162976*/
 }
@@ -17,7 +17,7 @@ h1{
     float:top;
     margin:none;
     border:1px solid black;
-    background-image: linear-gradient(#9ebfc7,#ccf2e2);
+  
     
 }
 
@@ -50,3 +50,49 @@ h2{
     margin-left: auto;
     margin-right: auto;
 }
+
+.gitar{
+    width: 500px;
+    height: auto;
+ 
+}
+
+#gitar{
+    position: absolute;
+    bottom: 200px;
+    left: 300px;
+    
+}
+.szoveg{
+    background-color:rgb(35, 95, 92) ;
+}
+#git{
+    border: 1px solid black;
+    border-top: none;
+}
+
+span{
+    font-weight: bold;
+}
+.mia{
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.prog{
+    float: right;
+    position: absolute;
+    right:300px;
+    bottom: 200px;
+}
+.lap{
+    border: 1px solid black;
+    border-top: none;
+}
+
+.szoveg2{
+    background-color:rgb(35, 95, 92) ;
+}
+
+

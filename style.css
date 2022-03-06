@@ -192,7 +192,7 @@ h2{
 
 }
 
-#szombat:hover{
+#szo:hover{
   background-color: #9ebfc7;
 
 }
@@ -281,6 +281,18 @@ h2{
   #husznegy:hover{
     background-color:#9ebfc7 ;
   }
+  #kimaradt:hover{
+    background-color:#9ebfc7 ;
+  }
+  #megegy:hover{
+    background-color:#9ebfc7 ;
+  }
+#ha:hover{
+  background-color:#9ebfc7 ;
+}
+#he:hover{
+  background-color:#9ebfc7 ;
+}
 .bemutatkozo{
   font-size: 20px;
   font-weight: bold;
