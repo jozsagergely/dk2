@@ -1,0 +1,137 @@
+body{
+    background-image: url('kedvenc_elemei/hatter.jpg');
+}
+
+
+h1{
+    text-align:center;
+    font-size:34px;
+    
+}
+
+.felsoresz{
+   
+    height:200px;
+    float:top;
+    margin:none;
+    border:1px solid black;
+  
+    
+}
+
+
+
+
+.baloldal{
+    float:left;
+    border:1px solid black;
+    width:200px;
+    height:800px;
+}
+
+h2{
+    text-align: center;
+}
+
+#homegomb{
+    width: 150px;
+    
+}
+#kedvenc{
+    margin-top: 10px;
+    width: 150px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gitar{
+    width: 500px;
+    height: auto;
+ 
+}
+
+#gitar{
+    position: absolute;
+    bottom: 200px;
+    left: 300px;
+    
+}
+.szoveg{
+    background-color:rgb(35, 95, 92) ;
+}
+#git{
+    border: 1px solid black;
+    border-top: none;
+}
+
+span{
+    font-weight: bold;
+}
+.mia{
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.prog{
+    float: right;
+    position: absolute;
+    right:300px;
+    bottom: 200px;
+}
+.lap{
+    border: 1px solid black;
+    border-top: none;
+}
+
+.szoveg2{
+    background-color:rgb(35, 95, 92) ;
+}
+
+
+.audi{
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    left: 400px;
+}
+
+.audszoveg{
+    position: absolute;
+    top: 400px;
+    left: 250px;
+    border: 1px solid black;
+    border-top: none;
+
+}
+
+
+h3{
+    text-align: center;
+}
+
+.logo{
+    width: 400px;
+    height: 300px;
+    float:right;
+    position: absolute;
+    right: 200px;
+    top: 170px;
+}
+
+.nyil{
+    width: 100px;
+    position: absolute;
+    top: 400px;
+    right: 350px;
+
+}
+
+.logoszoveg{
+    position: absolute;
+    top: 500px;
+    right: 265px;
+}
